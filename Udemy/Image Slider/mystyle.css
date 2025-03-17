@@ -1,0 +1,18 @@
+#btnl{
+	padding: 10px;
+	border-radius: 0px;
+	background-color: skyblue;
+}
+#btnr{
+	padding: 10px;
+	border-radius: 0px;
+	background-color: skyblue;
+}
+img{
+	width: 700px;
+	height: 800px;
+}
+
+.wrapper{
+	margin-left: 250px;
+}

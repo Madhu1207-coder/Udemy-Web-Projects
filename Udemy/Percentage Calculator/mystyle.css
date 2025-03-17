@@ -1,0 +1,43 @@
+#calculator{
+	background-color: black;
+	width: 450px;
+	height: 350px;
+	color: white;
+	padding: 55px;
+	padding-top: 30px;
+	border-style: none;
+	border-radius: 25px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+input{
+	float: right;
+	clear: both;
+	width: 125px;
+	height: 30px;
+	margin-top: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+p{
+	font-size: 35px;
+}
+#addup{
+	background-color: ghostwhite;
+	border-style: none;
+	border-radius: 10px;
+	width: 220px;
+	height: 45px;
+	color: black;
+	font-size: 30px;
+	margin-right: 120px;
+}
+h1{
+	font-size: 65px;
+	text-align: center;
+	color: black;
+}
+#perc{
+	color: black;
+}
